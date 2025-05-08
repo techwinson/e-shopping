@@ -47,9 +47,13 @@ bash:
   
 Contributing
 We welcome contributions! Please follow these steps:
+
 i)  Fork the repository.
+
 ii) Create a feature branch.
+
 iii)Commit your changes.
+
 iv) Push the branch and create a pull request.
 
 
