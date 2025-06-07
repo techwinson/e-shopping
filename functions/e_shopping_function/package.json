@@ -1,0 +1,9 @@
+{
+	"name": "e_shopping_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Winson Aravinth Raj C",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

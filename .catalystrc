@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "16526000000011013",
+      "name": "e-shopping",
+      "domain": {
+        "id": "50026365985",
+        "name": "e-shopping-60040835376.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60040835376",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

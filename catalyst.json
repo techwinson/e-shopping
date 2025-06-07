@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "e_shopping_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
